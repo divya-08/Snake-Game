@@ -1,0 +1,10 @@
+#mydiv {
+    width: 100vw;
+    height: 100vh;
+}
+
+#mycanvas {
+    background-image: url("bg.jpeg");
+    border: 14px solid green;
+    position: fixed;
+}
